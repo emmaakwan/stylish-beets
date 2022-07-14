@@ -42,3 +42,53 @@ figcaption {
   font-size: .8rem;
   text-align: center;
 }
+
+.harvest {
+  font-family: "PT Serif", serif;
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+p {
+  font-family: "PT Serif", serif;
+  font-size: .8rem;
+  line-height: 1.5;
+  color: #222;
+}
+
+blockquote p {
+  font-family: "PT Serif", serif;
+  font-style: italic;
+  font-size: 1.5rem;
+}
+
+dl dt {
+  font-family: "PT Serif", serif;
+  font-size: .8rem;
+  font-weight: bold;
+}
+
+dl dd {
+  font-family: "PT Serif", serif;
+  font-size: .8rem;
+}
+
+.servings {
+  font-family: "PT Serif", serif;
+  font-style: italic;
+  font-size: .8rem;
+}
+
+strong {
+  font-weight: normal;
+}
+
+footer a {
+  text-decoration: none;
+  color: #8f2440;
+}
+
+a:hover {
+  color: #222;
+  text-decoration: none;
+}
