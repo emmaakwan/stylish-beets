@@ -43,7 +43,7 @@ figcaption {
   text-align: center;
 }
 
-.harvest {
+main figure + p {
   font-family: "PT Serif", serif;
   font-size: 1.125rem;
   font-weight: bold;
